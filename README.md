@@ -15,7 +15,7 @@
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
 ⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+⚡️ Easy to modify\
 ⚡️ Automatic (0,0) repositioning upon page refresh
 
 ## Installation & Deployment 📦
