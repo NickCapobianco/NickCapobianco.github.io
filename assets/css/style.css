@@ -491,7 +491,8 @@ a.hoverline:hover {
 }
 
 .card.large .card-image {
-  height: 230px;
+  height: 720px;
+  width:1080px;
 }
 
 .card.large .card-content {
@@ -500,10 +501,6 @@ a.hoverline:hover {
 
 .card.medium .card-image {
   height: 240px;
-}
-
-.card.medium .card-video {
-  height: 720px;
 }
 
 .card-action a.btn-floating {
