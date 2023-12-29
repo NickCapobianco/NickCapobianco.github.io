@@ -502,6 +502,10 @@ a.hoverline:hover {
   height: 240px;
 }
 
+.card.medium .card-video {
+  height: 720px;
+}
+
 .card-action a.btn-floating {
   margin-bottom: 0;
 }
